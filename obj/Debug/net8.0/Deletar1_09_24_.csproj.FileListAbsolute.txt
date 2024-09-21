@@ -1,0 +1,14 @@
+C:\Users\ALUNO\Deletar1_09_24_\bin\Debug\net8.0\Deletar1_09_24_.exe
+C:\Users\ALUNO\Deletar1_09_24_\bin\Debug\net8.0\Deletar1_09_24_.deps.json
+C:\Users\ALUNO\Deletar1_09_24_\bin\Debug\net8.0\Deletar1_09_24_.runtimeconfig.json
+C:\Users\ALUNO\Deletar1_09_24_\bin\Debug\net8.0\Deletar1_09_24_.dll
+C:\Users\ALUNO\Deletar1_09_24_\bin\Debug\net8.0\Deletar1_09_24_.pdb
+C:\Users\ALUNO\Deletar1_09_24_\obj\Debug\net8.0\Deletar1_09_24_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Deletar1_09_24_\obj\Debug\net8.0\Deletar1_09_24_.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Deletar1_09_24_\obj\Debug\net8.0\Deletar1_09_24_.AssemblyInfo.cs
+C:\Users\ALUNO\Deletar1_09_24_\obj\Debug\net8.0\Deletar1_09_24_.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Deletar1_09_24_\obj\Debug\net8.0\Deletar1_09_24_.dll
+C:\Users\ALUNO\Deletar1_09_24_\obj\Debug\net8.0\refint\Deletar1_09_24_.dll
+C:\Users\ALUNO\Deletar1_09_24_\obj\Debug\net8.0\Deletar1_09_24_.pdb
+C:\Users\ALUNO\Deletar1_09_24_\obj\Debug\net8.0\Deletar1_09_24_.genruntimeconfig.cache
+C:\Users\ALUNO\Deletar1_09_24_\obj\Debug\net8.0\ref\Deletar1_09_24_.dll
